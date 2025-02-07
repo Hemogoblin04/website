@@ -4,13 +4,8 @@ body {
     background-color: #000000;
     text-align: center;
 }
-title{
-    background: #333;
-    color: white;
-    padding: 1rem;
-}
 header {
-    background: #333;
+    background: #ffffff;
     color: white;
     padding: 1rem;
 }
@@ -24,4 +19,14 @@ footer{
     position: fixed;
     padding: 1rem;
     bottom: 0;
+}
+.button{
+    background: white;
+    color: blue;
+    padding: 10x, 15x;
+    Width: 5x;
+
+}
+.button-hover{
+    color: white;
 }
