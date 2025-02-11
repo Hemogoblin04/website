@@ -5,6 +5,7 @@ body {
     text-align: center;
 }
 header {
+    font-size: 55px;
     background: #000000;
     color: rgb(255, 255, 255);
     padding: 1rem;
@@ -24,8 +25,8 @@ footer{
 .button{
     background: white;
     color: blue;
-    padding: 10x, 15x;
-    Width: 5x;
+    padding: 10px, 15px;
+    Width: 5px;
 
 }
 .button-hover{
