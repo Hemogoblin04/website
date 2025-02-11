@@ -1,4 +1,4 @@
-const images = ["images/latte1.png","images/latte2.png","images/latte3.png"];
+const images = ["images/latte1.jpeg","images/latte2.jpeg","images/latte3.jpeg"];
 let currentIndex = 0;
 
 const galleryImages = documentGetElementById("galleryImg");
