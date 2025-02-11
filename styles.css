@@ -32,3 +32,16 @@ footer{
 .button-hover{
     color: white;
 }
+img{
+max-width : 400px;
+height : auto;
+border-radius: 20px
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    margin: 0;
+}
